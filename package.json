@@ -1,0 +1,25 @@
+{
+  "name": "js_algorithms",
+  "version": "1.0.0",
+  "description": "This is a series of exercises on javascrits argorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bouyagas/js_argorithm.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Mohamed Gassama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bouyagas/js_argorithm/issues"
+  },
+  "homepage": "https://github.com/bouyagas/js_argorithm#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
