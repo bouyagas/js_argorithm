@@ -20,3 +20,4 @@ describe('isLessThan30', () => {
     expect(isLessThan30(30)).to.be.false;
   });
 });
+
